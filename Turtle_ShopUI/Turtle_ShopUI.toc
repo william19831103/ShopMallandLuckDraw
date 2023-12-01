@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: 商城UI
+## Notes: 烟雨江南QQ：261347567
+## Title-zhCN:ShopUI 商城UI界面
+## Notes-zhCN:提供游戏内商城界面交互支持
+## Author: ShopUI
+Turtle_ShopUI.xml

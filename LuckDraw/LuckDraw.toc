@@ -1,0 +1,6 @@
+## Interface: 11200
+## Title: |CFFFF8000【功能】|R 幸运抽奖
+## Notes: 幸运大乐透
+## Author: 烟雨江南
+
+LuckDraw.lua
